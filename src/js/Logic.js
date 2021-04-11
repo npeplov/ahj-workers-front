@@ -7,7 +7,7 @@ export default class Logic {
   constructor(gui) {
     this.gui = gui;
     // this.url = 'http://localhost:7070';
-	this.url = 'https://npeplov-ahj-workers.herokuapp.com/';
+    this.url = 'https://npeplov-ahj-workers.herokuapp.com/';
   }
 
   init() {

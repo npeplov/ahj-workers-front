@@ -1,3 +1,5 @@
+/* eslint-disable no-shadow */
+/* eslint-disable no-restricted-globals */
 /* eslint-disable no-console */
 
 self.addEventListener('install', (event) => {
